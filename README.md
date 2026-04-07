@@ -2,12 +2,10 @@
 
 **Software builder focused on clean, maintainable code.**
 
-```html
 <div align="center">
   <img src="https://readme.u14.app/api/github/stats?userId=pQth3ddkEzxN8Rr1IdE3Leqaz5RMRZmU" alt="GitHub Stats" width="48%" />
   <img src="https://readme.u14.app/api/github/top-langs?userId=pQth3ddkEzxN8Rr1IdE3Leqaz5RMRZmU" alt="Top Languages" width="48%" />
 </div>
-```
 
 ## About Me
 
