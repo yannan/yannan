@@ -54,17 +54,13 @@ Personal project
 
 ## Contribution Activity
 
-```html
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yannan&theme=tokyonight" alt="GitHub Streak" />
 </div>
-```
 
-```html
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yannan&theme=tokyo-night" alt="Contribution Graph" />
 </div>
-```
 
 ---
 
